@@ -1,3 +1,4 @@
+
 # Global_condom_usage_analysis
  A comprehensive analysis of global condom usage, aimed at supporting public health strategies and awareness efforts. It focuses on various countries including South Africa, the United States, the United Kingdom, India, Germany, Brazil, China, and Japan. 
 This dataset unveils the global narrative of contraceptive use, highlighting market trends and the broader impact on public health across various countries. It sheds light on which condom brands dominate specific markets, how sales have evolved over time, and the influence of government-led campaigns in promoting safe sex practices.
@@ -5,7 +6,9 @@ Through the lens of this data, we gain insights into the effectiveness of sex ed
 # Global Condom Usage: A Public Health Perspective
 
 This project presents a data-driven analysis of global condom usage, with a strong focus on public health indicators like contraceptive adoption, teen pregnancy, HIV awareness, and consumer preferences. The dashboard tells a compelling story about trends, behaviors, and gaps in sexual health education across different regions.
-https://github.com/Kelsbabe/Global_condom_usage_analysis/blob/main/gLOBAL%20CONDOM%20Screenshot%202025-04-11%20200106%20 (1).png ?raw=true
+
+![Uploading gLOBAL CONDOM Screenshot 2025-04-11 200106 (1).png…]()
+
 ## Dashboard Highlights:
 - **South Africa** leads in HIV prevention awareness.
 - **Teen pregnancy** remains high in South Africa and the USA.
