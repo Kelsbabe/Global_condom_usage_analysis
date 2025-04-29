@@ -5,7 +5,7 @@ Through the lens of this data, we gain insights into the effectiveness of sex ed
 # Global Condom Usage: A Public Health Perspective
 
 This project presents a data-driven analysis of global condom usage, with a strong focus on public health indicators like contraceptive adoption, teen pregnancy, HIV awareness, and consumer preferences. The dashboard tells a compelling story about trends, behaviors, and gaps in sexual health education across different regions.
-
+https://github.com/Kelsbabe/Global_condom_usage_analysis/blob/main/gLOBAL%20CONDOM%20Screenshot%202025-04-11%20200106%20 (1).png ?raw=true
 ## Dashboard Highlights:
 - **South Africa** leads in HIV prevention awareness.
 - **Teen pregnancy** remains high in South Africa and the USA.
